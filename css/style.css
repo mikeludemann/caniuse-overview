@@ -1,0 +1,214 @@
+/* The global CSS - Document */
+
+.navbar {
+	margin-bottom: 0px !important;
+    position: relative;
+  top:0px;
+  left:0px;
+  width:100%;
+  border-radius: 0px !important;
+}
+
+hr {
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+}
+
+hr.evaluation {
+    color: #fff;
+    padding-top: 1px !important;
+    padding-bottom: 1px !important;
+}
+
+.content {
+	min-height: calc(85vh) !important;
+}
+
+.auswahl {
+	border: 1px solid #000;
+	text-align: center;
+	margin-top: 30px;
+	min-height: calc(30vh) !important;
+}
+
+#Öffentlich > a > div.auswahl {
+	padding: 30px;
+}
+
+#Admin > div.auswahl {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 23px;
+	padding-bottom: 23px;
+}
+
+#Öffentlich > a > div > h3 {	
+	line-height: 7;
+}
+
+#Admin > div > h3  {	
+	line-height: 3;
+}
+
+.v-align {
+    float: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#Öffentlich > a, #Admin > a {
+	text-decoration: none !important;
+	color: #000 !important;
+}
+
+#Öffentlich > a:hover, #Admin > a:hover {
+	text-decoration: none !important;
+	color: #000 !important;
+}
+
+.home {
+	margin-top: 100px !important;
+}
+
+.home_cr {
+	padding-top: 10px !important;
+}
+
+.info {
+	margin: 10px 0px;
+}
+
+.cap_upload {
+	width: 50%;
+}
+
+.conf_upload {
+	width: 50%;
+	margin-top: 10px;
+}
+
+.abstand {
+	margin: 0px 0px 10px 0px !important;
+}
+
+.form_login{
+	margin: 50px 0px 10px 0px;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul{
+	padding: 0;
+}
+
+ol {
+	padding-left: 10px !important;
+}
+
+ol li {
+	list-style-type: disc;
+}
+
+.error {
+	color: #ff0000;
+}
+
+.middle {
+	text-align: center;
+}
+
+.header {
+	height: 10%;
+}
+
+/*.content {
+	margin: 10px 0px;
+} */
+
+.footer {
+	height: 10%;
+}
+
+.user {
+	padding-right: 5px;
+}
+
+.even {
+	float: left;
+	margin-right: 10px;
+}
+
+.odd {
+	margin-left: 10px;
+}
+
+iframe {
+	width: 100% !important;
+	height: 440px !important;
+}
+
+.border-bottom {
+	border-bottom: 1px solid #000000 !important;
+}
+
+.border-right {
+	border-right: 1px solid #000000 !important;
+}
+
+.border-left {
+	border-left: 1px solid #000000 !important;
+}
+
+.result{
+	background-color: #888888;
+	color: #ffffff !important;
+}
+
+.top{
+	position:absolute;
+	top: 60px;
+}
+
+.c_all{
+	margin: 5px 35px 5px 0px !important;
+	vertical-align: middle !important;
+}
+
+.cr_sl{
+	border: 1px solid #000;
+	max-height: 250px;
+	overflow-y: scroll;
+}
+
+.cap_sl{
+	max-height: 400px;
+	overflow-y: scroll;
+}
+
+input[type="submit"]{
+	width: 100%;
+}
+
+option{
+	width: 100%;
+}
+
+.w5 { width: 5%; }
+.w10 { width: 10%; }
+.w15 { width: 15%; }
+.w13 { width: 13.33%; }
+.w20 { width: 20%; }
+.w23_75 { width: 23.75%; }
+.w33 { width: 33%; }
+.w35 { width: 35%; }
+.w45 { width: 45%; }
+.w50 { width: 50%; }
+.w60 { width: 60%; }
+.w70 { width: 70%; }
+.w80 { width: 78.4%; }
+.w80_2 { width: 80.0%; }
+.w85 { width: 83.5%; }
+.w90 { width: 90%; }
+.w100 { width: 100%; }

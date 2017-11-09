@@ -1,0 +1,441 @@
+<?xml version="1.0"?>
+<root>
+  <db>
+    <check>Translate</check>
+    <check>CIU</check>
+  </db>
+  <variation>
+    <wert>
+      <Translate>Supported</Translate>
+      <CIU>y</CIU>
+    </wert>
+    <wert>
+      <Translate>Supported</Translate>
+      <CIU>y a</CIU>
+    </wert>
+    <wert>
+      <Translate>Supported</Translate>
+      <CIU>y x</CIU>
+    </wert>
+    <wert>
+      <Translate>Supported</Translate>
+      <CIU>y p</CIU>
+    </wert>
+    <wert>
+      <Translate>Supported</Translate>
+      <CIU>y n</CIU>
+    </wert>
+    <wert>
+      <Translate>Supported</Translate>
+      <CIU>y u</CIU>
+    </wert>
+    <wert>
+      <Translate>Supported</Translate>
+      <CIU>y d #1</CIU>
+    </wert>
+    <wert>
+      <Translate>Supported</Translate>
+      <CIU>y d #1 #2</CIU>
+    </wert>
+    <wert>
+      <Translate>Supported</Translate>
+      <CIU>y d #1 #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Supported</Translate>
+      <CIU>y d #2</CIU>
+    </wert>
+    <wert>
+      <Translate>Supported</Translate>
+      <CIU>y d #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Supported</Translate>
+      <CIU>y d #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Supported</Translate>
+      <CIU>y #1</CIU>
+    </wert>
+    <wert>
+        <Translate>Supported</Translate>
+        <CIU>y #1 #2</CIU>
+    </wert>
+    <wert>
+        <Translate>Supported</Translate>
+        <CIU>y #1 #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Supported</Translate>
+      <CIU>y #2</CIU>
+    </wert>
+    <wert>
+        <Translate>Supported</Translate>
+        <CIU>y #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Supported</Translate>
+      <CIU>y #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>n</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>n a</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>n x</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>n p</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>n y</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>n u</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>n d #1</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>n d #1 #2</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>n d #1 #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>n d #2</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>n d #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>n d #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>n #1</CIU>
+    </wert>
+    <wert>
+        <Translate>Not Supported</Translate>
+        <CIU>n #1 #2</CIU>
+    </wert>
+    <wert>
+        <Translate>Not Supported</Translate>
+        <CIU>n #1 #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>n #2</CIU>
+    </wert>
+    <wert>
+        <Translate>Not Supported</Translate>
+        <CIU>n #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>n #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Partial Supported</Translate>
+      <CIU>a</CIU>
+    </wert>
+    <wert>
+      <Translate>Partial Supported</Translate>
+      <CIU>a y</CIU>
+    </wert>
+    <wert>
+      <Translate>Partial Supported</Translate>
+      <CIU>a x</CIU>
+    </wert>
+    <wert>
+      <Translate>Partial Supported</Translate>
+      <CIU>a p</CIU>
+    </wert>
+    <wert>
+      <Translate>Partial Supported</Translate>
+      <CIU>a n</CIU>
+    </wert>
+    <wert>
+      <Translate>Partial Supported</Translate>
+      <CIU>a u</CIU>
+    </wert>
+    <wert>
+      <Translate>Partial Supported</Translate>
+      <CIU>a d #1</CIU>
+    </wert>
+    <wert>
+      <Translate>Partial Supported</Translate>
+      <CIU>a d #1 #2</CIU>
+    </wert>
+    <wert>
+      <Translate>Partial Supported</Translate>
+      <CIU>a d #1 #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Partial Supported</Translate>
+      <CIU>a d #2</CIU>
+    </wert>
+    <wert>
+      <Translate>Partial Supported</Translate>
+      <CIU>a d #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Partial Supported</Translate>
+      <CIU>a d #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Partial Supported</Translate>
+      <CIU>a #1</CIU>
+    </wert>
+    <wert>
+        <Translate>Partial Supported</Translate>
+        <CIU>a #1 #2</CIU>
+    </wert>
+    <wert>
+        <Translate>Partial Supported</Translate>
+        <CIU>a #1 #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Partial Supported</Translate>
+      <CIU>a #2</CIU>
+    </wert>
+    <wert>
+        <Translate>Partial Supported</Translate>
+        <CIU>a #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Partial Supported</Translate>
+      <CIU>a #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>p</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>p y</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>p x</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>p a</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>p n</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>p u</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>p d #1</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>p d #1 #2</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>p d #1 #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>p d #2</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>p d #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>p d #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>p #1</CIU>
+    </wert>
+    <wert>
+        <Translate>Not Supported</Translate>
+        <CIU>p #1 #2</CIU>
+    </wert>
+    <wert>
+        <Translate>Not Supported</Translate>
+        <CIU>p #1 #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>p #2</CIU>
+    </wert>
+    <wert>
+        <Translate>Not Supported</Translate>
+        <CIU>p #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>p #3</CIU>
+    </wert>
+    <wert>
+      <Translate>WebKit</Translate>
+      <CIU>x</CIU>
+    </wert>
+    <wert>
+      <Translate>WebKit</Translate>
+      <CIU>x y</CIU>
+    </wert>
+    <wert>
+      <Translate>WebKit</Translate>
+      <CIU>x a</CIU>
+    </wert>
+    <wert>
+      <Translate>WebKit</Translate>
+      <CIU>x p</CIU>
+    </wert>
+    <wert>
+      <Translate>WebKit</Translate>
+      <CIU>x n</CIU>
+    </wert> 
+    <wert>
+      <Translate>WebKit</Translate>
+      <CIU>x u</CIU>
+    </wert> 
+    <wert>
+      <Translate>WebKit</Translate>
+      <CIU>x d #1</CIU>
+    </wert>
+    <wert>
+      <Translate>WebKit</Translate>
+      <CIU>x d #1 #2</CIU>
+    </wert>
+    <wert>
+      <Translate>WebKit</Translate>
+      <CIU>x d #1 #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>WebKit</Translate>
+      <CIU>x d #2</CIU>
+    </wert>
+    <wert>
+      <Translate>WebKit</Translate>
+      <CIU>x d #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>WebKit</Translate>
+      <CIU>x d #3</CIU>
+    </wert>
+    <wert>
+      <Translate>WebKit</Translate>
+      <CIU>x #1</CIU>
+    </wert>
+    <wert>
+        <Translate>WebKit</Translate>
+        <CIU>x #1 #2</CIU>
+    </wert>
+    <wert>
+        <Translate>WebKit</Translate>
+        <CIU>x #1 #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>WebKit</Translate>
+      <CIU>x #2</CIU>
+    </wert>
+    <wert>
+        <Translate>WebKit</Translate>
+        <CIU>x #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>WebKit</Translate>
+      <CIU>x #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Unknown</Translate>
+      <CIU>u</CIU>
+    </wert>
+    <wert>
+      <Translate>Unknown</Translate>
+      <CIU>u y</CIU>
+    </wert>
+    <wert>
+      <Translate>Unknown</Translate>
+      <CIU>u n</CIU>
+    </wert>  
+    <wert>
+      <Translate>Unknown</Translate>
+      <CIU>u a</CIU>
+    </wert>
+    <wert>
+      <Translate>Unknown</Translate>
+      <CIU>u p</CIU>
+    </wert>
+    <wert>
+      <Translate>Unknown</Translate>
+      <CIU>u n</CIU>
+    </wert>  
+    <wert>
+      <Translate>Unknown</Translate>
+      <CIU>u d #1</CIU>
+    </wert>
+    <wert>
+      <Translate>Unknown</Translate>
+      <CIU>u d #1 #2</CIU>
+    </wert>
+    <wert>
+      <Translate>Unknown</Translate>
+      <CIU>u d #1 #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Unknown</Translate>
+      <CIU>u d #2</CIU>
+    </wert>
+    <wert>
+      <Translate>Unknown</Translate>
+      <CIU>u d #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Unknown</Translate>
+      <CIU>u d #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Unknown</Translate>
+      <CIU>u #1</CIU>
+    </wert>
+    <wert>
+        <Translate>Unknown</Translate>
+        <CIU>u #1 #2</CIU>
+    </wert>
+    <wert>
+        <Translate>Unknown</Translate>
+        <CIU>u #1 #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Unknown</Translate>
+      <CIU>u #2</CIU>
+    </wert>
+    <wert>
+        <Translate>Unknown</Translate>
+        <CIU>u #2 #3</CIU>
+    </wert>
+    <wert>
+      <Translate>Unknown</Translate>
+      <CIU>u #3</CIU>
+    </wert>
+  </variation>
+</root> 
