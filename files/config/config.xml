@@ -380,8 +380,44 @@
       <CIU>6.1</CIU>
     </number>
     <number>
+      <Translate>6.2</Translate>
+      <CIU>6.2</CIU>
+    </number>
+    <number>
+      <Translate>6.3</Translate>
+      <CIU>6.3</CIU>
+    </number>
+    <number>
+      <Translate>6.4</Translate>
+      <CIU>6.4</CIU>
+    </number>
+    <number>
+      <Translate>6.5</Translate>
+      <CIU>6.5</CIU>
+    </number>
+    <number>
       <Translate>7.0</Translate>
       <CIU>7</CIU>
+    </number>
+    <number>
+      <Translate>7.1</Translate>
+      <CIU>7.1</CIU>
+    </number>
+    <number>
+      <Translate>7.2</Translate>
+      <CIU>7.2</CIU>
+    </number>
+    <number>
+      <Translate>7.3</Translate>
+      <CIU>7.3</CIU>
+    </number>
+    <number>
+      <Translate>7.4</Translate>
+      <CIU>7.4</CIU>
+    </number>
+    <number>
+      <Translate>7.5</Translate>
+      <CIU>7.5</CIU>
     </number>
     <number>
       <Translate>7.0</Translate>
@@ -517,6 +553,14 @@
     </number>
     <number>
       <Translate>11.1</Translate>
+      <CIU>11.0-11.2</CIU>
+    </number>
+    <number>
+      <Translate>11.3</Translate>
+      <CIU>11.3-11.4</CIU>
+    </number>
+    <number>
+      <Translate>11.1</Translate>
       <CIU>11.1</CIU>
     </number>
     <number>
@@ -540,12 +584,56 @@
       <CIU>11.6</CIU>
     </number>
     <number>
+      <Translate>11.7</Translate>
+      <CIU>11.7</CIU>
+    </number>
+    <number>
+      <Translate>11.8</Translate>
+      <CIU>11.8</CIU>
+    </number>
+    <number>
+      <Translate>11.9</Translate>
+      <CIU>11.9</CIU>
+    </number>
+    <number>
       <Translate>12.0</Translate>
       <CIU>12</CIU>
     </number>
     <number>
       <Translate>12.1</Translate>
       <CIU>12.1</CIU>
+    </number>
+    <number>
+      <Translate>12.2</Translate>
+      <CIU>12.2</CIU>
+    </number>
+    <number>
+      <Translate>12.3</Translate>
+      <CIU>12.3</CIU>
+    </number>
+    <number>
+      <Translate>12.4</Translate>
+      <CIU>12.4</CIU>
+    </number>
+    <number>
+      <Translate>12.5</Translate>
+      <CIU>12.5</CIU>
+    </number>
+    <number>
+      <Translate>12.6</Translate>
+      <CIU>12.6</CIU>
+    </number>
+    <number>
+      <Translate>12.7</Translate>
+      <CIU>12.7</CIU>
+    </number>
+    <number>
+      <Translate>12.8</Translate>
+      <CIU>12.8</CIU>
+    </number>
+    <number>
+      <Translate>12.9</Translate>
+      <CIU>12.9</CIU>
     </number>
     <number>
       <Translate>13.0</Translate>
@@ -740,10 +828,6 @@
       <CIU>60</CIU>
     </number>
     <number>
-      <Translate>50.0</Translate>
-      <CIU>50</CIU>
-    </number>
-    <number>
       <Translate>61.0</Translate>
       <CIU>61</CIU>
     </number>
@@ -782,6 +866,46 @@
     <number>
       <Translate>70.0</Translate>
       <CIU>70</CIU>
+    </number>
+    <number>
+      <Translate>71.0</Translate>
+      <CIU>71</CIU>
+    </number>
+    <number>
+      <Translate>72.0</Translate>
+      <CIU>72</CIU>
+    </number>
+    <number>
+      <Translate>73.0</Translate>
+      <CIU>73</CIU>
+    </number>
+    <number>
+      <Translate>74.0</Translate>
+      <CIU>74</CIU>
+    </number>
+    <number>
+      <Translate>75.0</Translate>
+      <CIU>75</CIU>
+    </number>
+    <number>
+      <Translate>77.0</Translate>
+      <CIU>77</CIU>
+    </number>
+    <number>
+      <Translate>77.0</Translate>
+      <CIU>77</CIU>
+    </number>
+    <number>
+      <Translate>78.0</Translate>
+      <CIU>78</CIU>
+    </number>
+    <number>
+      <Translate>79.0</Translate>
+      <CIU>79</CIU>
+    </number>
+    <number>
+      <Translate>80.0</Translate>
+      <CIU>80</CIU>
     </number>
     <number>
       <Translate>Alle</Translate>

@@ -35,6 +35,10 @@
     </wert>
     <wert>
       <Translate>Supported</Translate>
+      <CIU>y d</CIU>
+    </wert>
+    <wert>
+      <Translate>Supported</Translate>
       <CIU>y d #1 #2</CIU>
     </wert>
     <wert>
@@ -100,6 +104,10 @@
     <wert>
       <Translate>Not Supported</Translate>
       <CIU>n u</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>n d</CIU>
     </wert>
     <wert>
       <Translate>Not Supported</Translate>
@@ -175,6 +183,10 @@
     </wert>
     <wert>
       <Translate>Partial Supported</Translate>
+      <CIU>a d</CIU>
+    </wert>
+    <wert>
+      <Translate>Partial Supported</Translate>
       <CIU>a d #1</CIU>
     </wert>
     <wert>
@@ -244,6 +256,10 @@
     <wert>
       <Translate>Not Supported</Translate>
       <CIU>p u</CIU>
+    </wert>
+    <wert>
+      <Translate>Not Supported</Translate>
+      <CIU>p d</CIU>
     </wert>
     <wert>
       <Translate>Not Supported</Translate>
@@ -319,6 +335,10 @@
     </wert> 
     <wert>
       <Translate>WebKit</Translate>
+      <CIU>x d</CIU>
+    </wert> 
+    <wert>
+      <Translate>WebKit</Translate>
       <CIU>x d #1</CIU>
     </wert>
     <wert>
@@ -389,6 +409,10 @@
       <Translate>Unknown</Translate>
       <CIU>u n</CIU>
     </wert>  
+    <wert>
+      <Translate>Unknown</Translate>
+      <CIU>u d</CIU>
+    </wert> 
     <wert>
       <Translate>Unknown</Translate>
       <CIU>u d #1</CIU>
