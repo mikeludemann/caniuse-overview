@@ -337,6 +337,10 @@
     </number>
     <number>
       <Translate>5.0</Translate>
+      <CIU>5.0-5.4</CIU>
+    </number>
+    <number>
+      <Translate>5.0</Translate>
       <CIU>5.0-7.0</CIU>
     </number>
     <number>
@@ -384,6 +388,10 @@
       <CIU>6.2</CIU>
     </number>
     <number>
+      <Translate>6.2</Translate>
+      <CIU>6.2-6.4</CIU>
+    </number>
+    <number>
       <Translate>6.3</Translate>
       <CIU>6.3</CIU>
     </number>
@@ -406,6 +414,10 @@
     <number>
       <Translate>7.2</Translate>
       <CIU>7.2</CIU>
+    </number>
+    <number>
+      <Translate>7.2</Translate>
+      <CIU>7.2-7.4</CIU>
     </number>
     <number>
       <Translate>7.3</Translate>
@@ -458,6 +470,10 @@
     <number>
       <Translate>8.1</Translate>
       <CIU>8.1-8.4</CIU>
+    </number>
+    <number>
+      <Translate>8.2</Translate>
+      <CIU>8.2</CIU>
     </number>
     <number>
       <Translate>9.0</Translate>
@@ -556,6 +572,10 @@
       <CIU>11.0-11.2</CIU>
     </number>
     <number>
+      <Translate>11.1</Translate>
+      <CIU>11.1-11.2</CIU>
+    </number>
+    <number>
       <Translate>11.3</Translate>
       <CIU>11.3-11.4</CIU>
     </number>
@@ -600,8 +620,16 @@
       <CIU>12</CIU>
     </number>
     <number>
+      <Translate>12.0</Translate>
+      <CIU>12.0-12.1</CIU>
+    </number>
+    <number>
       <Translate>12.1</Translate>
       <CIU>12.1</CIU>
+    </number>
+    <number>
+      <Translate>12.</Translate>
+      <CIU>12.2-12.4</CIU>
     </number>
     <number>
       <Translate>12.2</Translate>
@@ -636,8 +664,56 @@
       <CIU>12.9</CIU>
     </number>
     <number>
+      <Translate>12.12</Translate>
+      <CIU>12.12</CIU>
+    </number>
+    <number>
       <Translate>13.0</Translate>
       <CIU>13</CIU>
+    </number>
+    <number>
+      <Translate>13.0</Translate>
+      <CIU>13.0-13.1</CIU>
+    </number>
+    <number>
+      <Translate>13.1</Translate>
+      <CIU>13.1</CIU>
+    </number>
+    <number>
+      <Translate>13.2</Translate>
+      <CIU>13.2</CIU>
+    </number>
+    <number>
+      <Translate>13.3</Translate>
+      <CIU>13.3</CIU>
+    </number>
+    <number>
+      <Translate>13.4</Translate>
+      <CIU>13.4</CIU>
+    </number>
+    <number>
+      <Translate>13.4</Translate>
+      <CIU>13.4-13.7</CIU>
+    </number>
+    <number>
+      <Translate>13.5</Translate>
+      <CIU>13.5</CIU>
+    </number>
+    <number>
+      <Translate>13.6</Translate>
+      <CIU>13.6</CIU>
+    </number>
+    <number>
+      <Translate>13.7</Translate>
+      <CIU>13.7</CIU>
+    </number>
+    <number>
+      <Translate>13.8</Translate>
+      <CIU>13.8</CIU>
+    </number>
+    <number>
+      <Translate>13.9</Translate>
+      <CIU>13.9</CIU>
     </number>
     <number>
       <Translate>14.0</Translate>
@@ -888,8 +964,8 @@
       <CIU>75</CIU>
     </number>
     <number>
-      <Translate>77.0</Translate>
-      <CIU>77</CIU>
+      <Translate>76.0</Translate>
+      <CIU>76</CIU>
     </number>
     <number>
       <Translate>77.0</Translate>
@@ -906,6 +982,86 @@
     <number>
       <Translate>80.0</Translate>
       <CIU>80</CIU>
+    </number>
+    <number>
+      <Translate>81.0</Translate>
+      <CIU>81</CIU>
+    </number>
+    <number>
+      <Translate>82.0</Translate>
+      <CIU>82</CIU>
+    </number>
+    <number>
+      <Translate>83.0</Translate>
+      <CIU>83</CIU>
+    </number>
+    <number>
+      <Translate>84.0</Translate>
+      <CIU>84</CIU>
+    </number>
+    <number>
+      <Translate>85.0</Translate>
+      <CIU>85</CIU>
+    </number>
+    <number>
+      <Translate>86.0</Translate>
+      <CIU>86</CIU>
+    </number>
+    <number>
+      <Translate>87.0</Translate>
+      <CIU>87</CIU>
+    </number>
+    <number>
+      <Translate>88.0</Translate>
+      <CIU>88</CIU>
+    </number>
+    <number>
+      <Translate>89.0</Translate>
+      <CIU>89</CIU>
+    </number>
+    <number>
+      <Translate>90.0</Translate>
+      <CIU>90</CIU>
+    </number>
+    <number>
+      <Translate>91.0</Translate>
+      <CIU>91</CIU>
+    </number>
+    <number>
+      <Translate>92.0</Translate>
+      <CIU>92</CIU>
+    </number>
+    <number>
+      <Translate>93.0</Translate>
+      <CIU>93</CIU>
+    </number>
+    <number>
+      <Translate>94.0</Translate>
+      <CIU>94</CIU>
+    </number>
+    <number>
+      <Translate>95.0</Translate>
+      <CIU>95</CIU>
+    </number>
+    <number>
+      <Translate>96.0</Translate>
+      <CIU>96</CIU>
+    </number>
+    <number>
+      <Translate>97.0</Translate>
+      <CIU>97</CIU>
+    </number>
+    <number>
+      <Translate>98.0</Translate>
+      <CIU>98</CIU>
+    </number>
+    <number>
+      <Translate>99.0</Translate>
+      <CIU>99</CIU>
+    </number>
+    <number>
+      <Translate>100.0</Translate>
+      <CIU>100</CIU>
     </number>
     <number>
       <Translate>Alle</Translate>
